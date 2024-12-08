@@ -62,3 +62,7 @@ Data source: https://www.kaggle.com/datasets/bhadramohit/agriculture-and-farming
 File: MC-Purrr-Vignette.Rmd
 =======
 
+Andreina Arias
+I was able find the max and min used name from the data set Stephanie had tidy called "new names".
+
+=======
